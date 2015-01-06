@@ -5,7 +5,7 @@ date:   2015-01-05 19:00
 categories: blog january
 ---
 
-The internet is an amazing tool powered by search engines to help you find what you need. Today, I used the Google search engine to find out how to "add images in Markdown" (the exact keywords I used) and stumbled upon a Markdown Cheatsheet created by adam-p on github! The post provides a table of contents for just about anything you would stumble upon on a daily basis in Markdown.
+The internet is an amazing tool powered by search engines to help you find what you need. Today, I used the Google search engine to find out how to "add images in Markdown" (the exact keywords I used) and stumbled upon a Markdown Cheatsheet created by adam-p on Github! The post provides a table of contents for just about anything you would stumble upon on a daily basis in Markdown.
 
 Github Cheatsheet link: [Markdown Cheatsheet][cheatsheet]
 

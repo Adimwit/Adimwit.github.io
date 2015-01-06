@@ -98,7 +98,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -127,7 +127,7 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 15px; // text size of code snippet
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #eef;
