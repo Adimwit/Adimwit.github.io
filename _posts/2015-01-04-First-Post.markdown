@@ -18,4 +18,4 @@ I end this first post here, but rest assured future posts will include pictures 
 
 Adimwit
 
-[friend]:		http://hellosputnik.github.ioe
+[friend]:		http://hellosputnik.github.io
