@@ -5,7 +5,7 @@ date:   2015-01-09 22:04
 categories: blog january
 ---
 
-Today I discuss the tool I use to write my blog posts called [Sublime Text][sublime]. Recommended to me by Daimian Mercer, a developer for the EVE Online game's wormhole mapping tool called [Tripwire][tripwire], Sublime Text is an amazing text editor that caters to those seeking an alternative to Notepad without breaking the bank. Here are some of the features I found useful:
+Today I discuss the tool I use to write my blog posts called [Sublime Text][sublime]. Recommended to me by Daimian Mercer, a developer for the EVE Online game's wormhole mapping tool called [Tripwire][tripwire]. Sublime Text is an amazing text editor that caters to those seeking an alternative to Notepad without breaking the bank. Here are some of the features I found useful:
 
 <h1>Syntax Highlighting</h1>
 
@@ -13,7 +13,7 @@ The ability to highlight syntax between different languages is awesome. Seeing w
 
 <h1>Shortcuts</h1>
 
-There are some really intriguing shortcuts in Sublime that will blow your mind when you use them. My favorite shortcut is ```Ctrl + F2```; the ability to bookmark lines in the file and cycle through the file (especially if there are tons of lines) makes refinding the line you need to look for a piece of cake (the cake is a lie).
+There are some really intriguing shortcuts in Sublime that will blow your mind when you use them. My favorite shortcut is ```Ctrl + F2```; the ability to bookmark lines in the file and cycle through the file (especially if there are tons of lines) makes returning to the line you need to look for a piece of cake (the cake is a lie).
 
 <h1>The Command Palette</h1>
 
