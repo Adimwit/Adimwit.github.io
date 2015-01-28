@@ -1,0 +1,24 @@
+---
+layout: post
+title: To Do
+date:   2015-01-27 22:43
+categories: blog january
+---
+
+It has been over 2 weeks since my last post. A lot of things have hit me hard: the new semester of school, club activities, and a bunch of catching up in my courses. I had planned to graduate this May, but this will probably not happen due to the workload that 5 programming courses will ask of me. Now that I have everything sorted out, I'd like to set some small goals that I want to achieve with the blog:
+
+1. Post every other day:
+
+I find that spending 2 hours for a blog post on a daily basis does not currently fit in with the schedule that I have. It takes time for me to translate what's on my mind to something coherent, and I'd like to give it my best effort when writing this. Of course, the weekends are a different story for blogs...
+
+2. Create a section for current projects:
+
+I am involved in a lot of projects this semester, ranging for Hepatitis C research to programming projects to my own side projects. As such, I'd like to keep track of it all and reference them easily whenever I feel like blogging about my work. The goal here is to learn how to modify the layout so that I can provide a panel for this.
+
+3. Update the blog:
+
+The blog has been lacking change as of late and I want to add a little more than point #2. Introducing new text variations and changes to the current layout are something I've been meaning to do, but haven't mustered the effort to do. 
+
+These few goals should get me started well into February. I find that too many goals tend to discourage me from working towards them all. I'll end the post here to keep it a light one.
+
+Adimwit
