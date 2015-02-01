@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "C++"
+date:   2015-01-31 22:32:00
+categories: blog january
+---
+The University of Arizona will be hosting a Hackathon on March 6-8 ([hackarizona.org][hackarizona.org]). I have garnered [HelloSputnik][HelloSputnik]'s interest to participate in a team of 3-4 members (with 4 being ideal). For this event we've decided to code in C++, a language that I have no experience in. To prepare for this, Sputnik has provided me with a beginner's tutorial called "C++ Beginner's Guide" to complete.
+
+Consisting of 12 modules, I plan to complete this beginner's guide to C++ in 1 week. With a strong foundation in both Java and C, I am familiar with the syntax used by C++. New things I learned:
+
+```<<``` and ```>>```
+
+These arrows direct input and output. For example: ```cin >> size``` assigns input from the user to ```size``` and ```cout << "Hello World!\n"``` prints "Hello World!" to console. This is much more convenient than typing ```System.out.println(...)``` in Java.
+
+```using namespace std;```
+
+Introduced in the first coding example (and every subsequent example after that), the first chapter gives a brief description (the tutorial will provide an in-depth analysis later on) that is confusing. I quote the description here:
+
+> "A namespace creates a declarative region in which various program elements can be placed. Elements declared in one namespace are separate
+> from elements declared in another. Namespaces help in the organization of large programs."
+
+Correct me if I'm wrong, but I believe these are similar to ```typedef``` found in C. I can only guess this is related to header files until I read chapter 5 for the full explanation.
+
+Having experience in multiple languages (Java helps a lot), I find myself having no trouble breezing through the syntax of C++. After finishing the tutorial, I plan on a small project to combine everything I learned into a program. After all, the only way to truly know that you learned is to implement what you've learned.
+
+Adimwit
+
+[hackarizona.org]: hackarizona.org
+[HelloSputnik]: hellosputnik.github.io
